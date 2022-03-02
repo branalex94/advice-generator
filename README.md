@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Finished Challenge!](./screenshot.jpg)
+![Finished Challenge!](./advice-generator-finished-chalenge.png)
 
 ### Links
 
